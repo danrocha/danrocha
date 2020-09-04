@@ -6,7 +6,7 @@
 Skills: HTML, CSS, JS, Vue, Nuxt, Gridsome, TailwindCSS, GraphQL, Hasura, Postgres, Node, Python, Data Science
 
 🔭 I’m currently working on [architecturalnetworks/berlin](https://architecturalnetworks.com/berlin) and [remotearchitects.club](https://remotearchitects.club)  
-🌱 I’m currently learning Typescript, Vue3/Composition API, XState and statecharts
+🌱 I’m currently learning Typescript, Vue3/Composition API, XState and statecharts  
 😄 Pronouns: He/Him 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danrocha&show_icons=true)
