@@ -1,8 +1,7 @@
 ### Daniel da Rocha
 #### Ex-architect turned full-stack dev, bridging design thinking with technical expertise to build intuitive, high-performance web applications.
 
-🧰 HTML, CSS, JS/TS, Vue/React, Nuxt/Next.js, SQL, GraphQL
-Dabbling with Python, PHP/Laravel, LLMs, AI
+🧰 HTML, CSS, JS/TS, Vue/React, Nuxt/Next.js, SQL, GraphQL; dabbling with Python, PHP/Laravel, LLMs, AI
 
 👨‍💻 Senior Software Engineer (Full Stack) at [BrowserStack](https://www.browserstack.com)
 
